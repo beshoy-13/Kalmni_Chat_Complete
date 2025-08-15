@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Kalmni_Server.dir/link.d CMakeFiles/Kalmni_Server.dir/main.cpp.o -o Kalmni_Server

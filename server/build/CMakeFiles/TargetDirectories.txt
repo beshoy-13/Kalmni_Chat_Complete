@@ -1,0 +1,3 @@
+/home/beshoy-13/Kalmni_Chat_Complete/server/build/CMakeFiles/Kalmni_Server.dir
+/home/beshoy-13/Kalmni_Chat_Complete/server/build/CMakeFiles/edit_cache.dir
+/home/beshoy-13/Kalmni_Chat_Complete/server/build/CMakeFiles/rebuild_cache.dir
