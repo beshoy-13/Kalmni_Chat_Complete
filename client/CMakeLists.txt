@@ -3,7 +3,6 @@ project(Kalmni_Client)
 
 set(CMAKE_CXX_STANDARD 17)
 
-# Use pkg-config to get SDL2 and OpenGL
 find_package(PkgConfig REQUIRED)
 pkg_check_modules(SDL2 REQUIRED sdl2)
 
