@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/beshoy-13/Kalmni_Chat_Complete/server/main.cpp" "CMakeFiles/Kalmni_Server.dir/main.cpp.o" "gcc" "CMakeFiles/Kalmni_Server.dir/main.cpp.o.d"
+  "/home/beshoy/Codes/Kalmni_Chat_Complete/server/main.cpp" "CMakeFiles/Kalmni_Server.dir/main.cpp.o" "gcc" "CMakeFiles/Kalmni_Server.dir/main.cpp.o.d"
   "" "Kalmni_Server" "gcc" "CMakeFiles/Kalmni_Server.dir/link.d"
   )
 

@@ -3,10 +3,6 @@ project(Kalmni_Client)
 
 set(CMAKE_CXX_STANDARD 17)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 6dfd0846fbe3bc2c061354340565a5f5502e9ddf
 find_package(PkgConfig REQUIRED)
 pkg_check_modules(SDL2 REQUIRED sdl2)
 
@@ -38,4 +34,3 @@ target_link_libraries(Kalmni_Client
     GL
     pthread
 )
-
